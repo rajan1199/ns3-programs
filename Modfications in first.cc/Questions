@@ -1,1 +1,11 @@
+1. Create a simple topology of two nodes (Node1, Node2) separated by a point-to-point link.
+a. Create pcap file for each node.
+b. Analyse pcap file via Wireshark and tcpdump.
+c. Present the node structure and working using Network Animator.
+d. Create Ascii Trace file and execute analysis with Tracemetrics.
 
+2. Create a star topology of 7 nodes (One node will act as server and the rest will act as a client) separated by a point-to-point link using client-server Architecture.
+a. Create pcap file for each node.
+b. Analyse pcap file via Wireshark and tcpdump.
+c. Present the node structure and working using Network Animator.
+d. Create Ascii Trace file and execute analysis with Tracemetrics.
