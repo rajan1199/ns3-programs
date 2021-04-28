@@ -1,0 +1,21 @@
+Name of Program: Take any 2-propagation model scenario individually and compare with respect to any predefined program in ns3. (if you want to compare more than 2 you can also
+do that)
+
+Group members:
+Subject Name/Code:
+System Configuration:
+Processor/RAM/OS:
+Theory: Just one/two paragraph about the model you are implementing.
+Code: Screenshots 
+Output: you may copy/paste output from terminal or simply paste screenshots.
+Create the following files: XML file using NetAnim
+.tr file (Ascii Trace File)
+.pcap file (atleast two pacp files)
+XML file for flow monitor (but terminal output will be preferred)
+Make comparison graph wrt to
+
+(Attach NS3 folder and make it zip file.)
+
+
+The link where all the files related to this project can be found on the drive:
+https://drive.google.com/drive/folders/1IVQ5J11f0-tdny1dRd-C4724Z3I1Ww-4?usp=sharing
